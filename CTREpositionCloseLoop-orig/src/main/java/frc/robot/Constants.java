@@ -1,5 +1,5 @@
 /**  ~/VSpace/CTRExampleFRCode/PositionClosedLoop/src/main/java/frc/robot/Constants
- * Simple class containing constants
+ * Simple class for constants
  */
 package frc.robot;
 
